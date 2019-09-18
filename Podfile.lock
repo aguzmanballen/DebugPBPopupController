@@ -1,0 +1,29 @@
+PODS:
+  - PBPopupController (2.0.0)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - PBPopupController (from `https://github.com/aguzmanballen/PBPopupController`, commit `3f77a2964bed24e2fa2007bcc2bdc670da18cf6d`)
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PBPopupController:
+    :commit: 3f77a2964bed24e2fa2007bcc2bdc670da18cf6d
+    :git: https://github.com/aguzmanballen/PBPopupController
+
+CHECKOUT OPTIONS:
+  PBPopupController:
+    :commit: 3f77a2964bed24e2fa2007bcc2bdc670da18cf6d
+    :git: https://github.com/aguzmanballen/PBPopupController
+
+SPEC CHECKSUMS:
+  PBPopupController: c1fb1cfbeb4ac158a6d3fa8080a12cb16655e0d8
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 523fbf4d7ee7a7ce5c25c7d45c86fb8d4c13e2d0
+
+COCOAPODS: 1.7.1
